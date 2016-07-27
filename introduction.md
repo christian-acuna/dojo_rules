@@ -10,3 +10,4 @@ My favorite Code School is HTML.
 * Swift
 * JavaScript
 * Ruby
+* Killing history using git rebase
